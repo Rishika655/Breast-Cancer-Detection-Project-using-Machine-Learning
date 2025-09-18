@@ -32,7 +32,7 @@ Can even take your custom input and give you instant prediction.
 
 ##### Clone the repo. Install the stuff. Run the file.
 
-https://github.com/Rishika655/Breast-Cancer-Detection-Project-using-Machine-Learning/commit/e18bd2a0c2d07dd9d6f602791c6825ba8045a3fa
+https://github.com/Rishika655/Breast-Cancer-Detection-Project-using-Machine-Learning/blob/main/Breast_Cancer_Classification_Using_Machine_Learning.ipynb
 cd breast-cancer-detection\n
 pip install -r requirements.txt\n
 python breast_cancer_detection.py\n
