@@ -44,13 +44,13 @@ Short. Direct.
 
 ## 📊 Dataset in short
 
-It’s the Breast Cancer Wisconsin Dataset (comes with scikit-learn).
+It’s the Breast Cancer Diagnosis Dataset (comes with scikit-learn).For data, data.csv is attached.
 
 569 samples.
 
 30 features.
 
-Labels:
+##### Labels:
 
 0 → Malignant
 
